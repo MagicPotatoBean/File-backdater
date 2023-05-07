@@ -12,7 +12,15 @@ Public Class Form1
             For Each filename In filenames
                 Try
                     If File.Exists(filename) Then
-                        File.SetCreationTime(filename, DateTimePicker1.Value)
+                        If lastaccessChkBox.Checked Then
+                            File.SetLastAccessTime(filename, DateTimePicker1.Value)
+                        End If
+                        If lastwriteChkBox.Checked Then
+                            File.SetLastWriteTime(filename, DateTimePicker1.Value)
+                        End If
+                        If creationChkBox.Checked Then
+                            File.SetCreationTime(filename, DateTimePicker1.Value)
+                        End If
                     End If
                 Catch ex As Exception
                     MsgBox(ex)
