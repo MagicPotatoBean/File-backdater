@@ -64,7 +64,7 @@ Partial Class Form1
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel1.Location = New System.Drawing.Point(0, 43)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(140, 75)
+        Me.Panel1.Size = New System.Drawing.Size(140, 73)
         Me.Panel1.TabIndex = 2
         '
         'lastaccessChkBox
@@ -101,14 +101,14 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(140, 118)
+        Me.ClientSize = New System.Drawing.Size(140, 116)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.DateTimePicker1)
         Me.MaximizeBox = False
-        Me.MaximumSize = New System.Drawing.Size(156, 200)
+        Me.MaximumSize = New System.Drawing.Size(156, 155)
         Me.MinimizeBox = False
-        Me.MinimumSize = New System.Drawing.Size(156, 83)
+        Me.MinimumSize = New System.Drawing.Size(156, 155)
         Me.Name = "Form1"
         Me.Text = "Backdater"
         Me.Panel1.ResumeLayout(False)
