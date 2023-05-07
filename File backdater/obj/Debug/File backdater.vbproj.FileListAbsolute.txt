@@ -1,0 +1,13 @@
+C:\Users\terra\source\repos\File backdater\File backdater\bin\Debug\File backdater.exe.config
+C:\Users\terra\source\repos\File backdater\File backdater\bin\Debug\File backdater.exe
+C:\Users\terra\source\repos\File backdater\File backdater\bin\Debug\File backdater.pdb
+C:\Users\terra\source\repos\File backdater\File backdater\bin\Debug\File backdater.xml
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.vbproj.AssemblyReference.cache
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.vbproj.SuggestedBindingRedirects.cache
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File_backdater.Form1.resources
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File_backdater.Resources.resources
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.vbproj.GenerateResource.cache
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.vbproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.exe
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.xml
+C:\Users\terra\source\repos\File backdater\File backdater\obj\Debug\File backdater.pdb
